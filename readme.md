@@ -8,6 +8,8 @@ By integrating blockchain technology with education, this project helps foster D
 
 ## Contract Address
 0xc79192d68371db8d6fc7d30204f231637616572d
+![image](https://github.com/user-attachments/assets/b5da0ea4-2753-4efa-84ea-70abf2bdabe0)
+
 
 ### Key Features:
 - **Incentives for Learning**: Users are rewarded with tokens upon completing specific learning tasks related to DeFi.
